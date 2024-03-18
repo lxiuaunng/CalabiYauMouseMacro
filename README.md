@@ -29,7 +29,7 @@
   - X和Y为每发子弹移动的像素数组，正方向分别为向右和向下。
   - j和k为肩射和开镜两种状态，没有腰射（作者很懒对不起）。
   - ming是角色拼音，也是代码中角色对应的对象。
-  - 对应角色有：[ming、lawei、shamao、feisha、xinghui、xiong、hudie、maomao]，可自由更改。
+  - 对应角色有：[ming、lawei、shamao、feisha、xinghui、xiong、hudie、maomao]，可自由更改，不要改成中文哦。
 	  - "明", "拉微", "沙猫", "绯莎", "星绘", "小熊", "蝴蝶", "猫猫"
 
 ---
